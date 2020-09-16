@@ -1,0 +1,12 @@
+[workspace]
+members = [
+    "swarm",
+    "he_node",
+    "config",
+    "network_address",
+    "crypto",
+    "types",
+    "lcs",
+    "crypto_derive",
+]
+
